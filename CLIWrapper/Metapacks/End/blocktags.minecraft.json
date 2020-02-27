@@ -1,0 +1,4113 @@
+{
+  "minecraft:air": [
+    "#unmined:air",
+    "#unmined:natural",
+    "#unmined:air"
+  ],
+  "minecraft:cave_air": [
+    "#unmined:air",
+    "#unmined:natural",
+    "#unmined:air"
+  ],
+  "minecraft:void_air": [
+    "#unmined:black"
+  ],
+  "minecraft:turtle_egg": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:egg"
+  ],
+  "minecraft:fire": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:fire"
+  ],
+  "minecraft:stone": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone"
+  ],
+  "minecraft:granite": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone"
+  ],
+  "minecraft:diorite": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone"
+  ],
+  "minecraft:andesite": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone"
+  ],
+  "minecraft:grass_block": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:dirt"
+  ],
+  "minecraft:dirt": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:dirt"
+  ],
+  "minecraft:coarse_dirt": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:dirt"
+  ],
+  "minecraft:podzol": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:dirt"
+  ],
+  "minecraft:bedrock": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone"
+  ],
+  "minecraft:sand": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:sand"
+  ],
+  "minecraft:red_sand": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:sand"
+  ],
+  "minecraft:gravel": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:gravel"
+  ],
+  "minecraft:sandstone": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone",
+    "#unmined:sandstone"
+  ],
+  "minecraft:obsidian": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone"
+  ],
+  "minecraft:clay": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:clay"
+  ],
+  "minecraft:netherrack": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:red"
+  ],
+  "minecraft:soul_sand": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:sand"
+  ],
+  "minecraft:infested_stone": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone"
+  ],
+  "minecraft:mycelium": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:dirt"
+  ],
+  "minecraft:end_stone": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:yellow"
+  ],
+  "minecraft:white_terracotta": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone",
+    "#unmined:terracotta",
+    "#unmined:white"
+  ],
+  "minecraft:orange_terracotta": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone",
+    "#unmined:terracotta",
+    "#unmined:orange"
+  ],
+  "minecraft:magenta_terracotta": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone",
+    "#unmined:terracotta",
+    "#unmined:magenta"
+  ],
+  "minecraft:light_blue_terracotta": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone",
+    "#unmined:terracotta",
+    "#unmined:light_blue"
+  ],
+  "minecraft:yellow_terracotta": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone",
+    "#unmined:terracotta",
+    "#unmined:yellow"
+  ],
+  "minecraft:lime_terracotta": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone",
+    "#unmined:terracotta",
+    "#unmined:lime"
+  ],
+  "minecraft:pink_terracotta": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone",
+    "#unmined:terracotta",
+    "#unmined:pink"
+  ],
+  "minecraft:gray_terracotta": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone",
+    "#unmined:terracotta",
+    "#unmined:gray"
+  ],
+  "minecraft:light_gray_terracotta": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone",
+    "#unmined:terracotta",
+    "#unmined:light_gray"
+  ],
+  "minecraft:cyan_terracotta": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone",
+    "#unmined:terracotta",
+    "#unmined:cyan"
+  ],
+  "minecraft:purple_terracotta": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone",
+    "#unmined:terracotta",
+    "#unmined:purple"
+  ],
+  "minecraft:blue_terracotta": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone",
+    "#unmined:terracotta",
+    "#unmined:blue"
+  ],
+  "minecraft:brown_terracotta": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone",
+    "#unmined:terracotta",
+    "#unmined:brown"
+  ],
+  "minecraft:green_terracotta": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone",
+    "#unmined:terracotta",
+    "#unmined:green"
+  ],
+  "minecraft:red_terracotta": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone",
+    "#unmined:terracotta",
+    "#unmined:red"
+  ],
+  "minecraft:black_terracotta": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone",
+    "#unmined:terracotta",
+    "#unmined:black"
+  ],
+  "minecraft:terracotta": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone",
+    "#unmined:terracotta"
+  ],
+  "minecraft:red_sandstone": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone",
+    "#unmined:sandstone"
+  ],
+  "minecraft:magma_block": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ground",
+    "#unmined:stone"
+  ],
+  "minecraft:ice": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ice"
+  ],
+  "minecraft:packed_ice": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ice"
+  ],
+  "minecraft:blue_ice": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ice"
+  ],
+  "minecraft:frosted_ice": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:ice"
+  ],
+  "minecraft:lava": [
+    "#unmined:fluid",
+    "#unmined:natural",
+    "#unmined:lava"
+  ],
+  "minecraft:flowing_lava": [
+    "#unmined:fluid",
+    "#unmined:natural",
+    "#unmined:lava"
+  ],
+  "minecraft:gold_ore": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:stone",
+    "#unmined:ore",
+    "#unmined:ground"
+  ],
+  "minecraft:iron_ore": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:stone",
+    "#unmined:ore",
+    "#unmined:ground"
+  ],
+  "minecraft:coal_ore": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:stone",
+    "#unmined:ore",
+    "#unmined:ground"
+  ],
+  "minecraft:lapis_ore": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:stone",
+    "#unmined:ore",
+    "#unmined:ground"
+  ],
+  "minecraft:diamond_ore": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:stone",
+    "#unmined:ore",
+    "#unmined:ground"
+  ],
+  "minecraft:redstone_ore": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:stone",
+    "#unmined:ore",
+    "#unmined:ground"
+  ],
+  "minecraft:emerald_ore": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:stone",
+    "#unmined:ore",
+    "#unmined:ground"
+  ],
+  "minecraft:nether_quartz_ore": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:stone",
+    "#unmined:ore",
+    "#unmined:ground"
+  ],
+  "minecraft:snow": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:snow"
+  ],
+  "minecraft:snow_block": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:snow"
+  ],
+  "minecraft:oak_sapling": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:sapling",
+    "#unmined:oak"
+  ],
+  "minecraft:spruce_sapling": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:sapling",
+    "#unmined:spruce"
+  ],
+  "minecraft:birch_sapling": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:sapling",
+    "#unmined:birch"
+  ],
+  "minecraft:jungle_sapling": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:sapling",
+    "#unmined:jungle"
+  ],
+  "minecraft:acacia_sapling": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:sapling",
+    "#unmined:acacia"
+  ],
+  "minecraft:dark_oak_sapling": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:sapling",
+    "#unmined:dark_oak"
+  ],
+  "minecraft:oak_log": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:log",
+    "#unmined:oak"
+  ],
+  "minecraft:spruce_log": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:log",
+    "#unmined:spruce"
+  ],
+  "minecraft:birch_log": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:log",
+    "#unmined:birch"
+  ],
+  "minecraft:jungle_log": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:log",
+    "#unmined:jungle"
+  ],
+  "minecraft:acacia_log": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:log",
+    "#unmined:acacia"
+  ],
+  "minecraft:dark_oak_log": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:log",
+    "#unmined:dark_oak"
+  ],
+  "minecraft:stripped_oak_log": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:log",
+    "#unmined:oak"
+  ],
+  "minecraft:stripped_spruce_log": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:log",
+    "#unmined:spruce"
+  ],
+  "minecraft:stripped_birch_log": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:log",
+    "#unmined:birch"
+  ],
+  "minecraft:stripped_jungle_log": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:log",
+    "#unmined:jungle"
+  ],
+  "minecraft:stripped_acacia_log": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:log",
+    "#unmined:acacia"
+  ],
+  "minecraft:stripped_dark_oak_log": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:log",
+    "#unmined:dark_oak"
+  ],
+  "minecraft:oak_leaves": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:leaves",
+    "#unmined:oak"
+  ],
+  "minecraft:spruce_leaves": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:leaves",
+    "#unmined:spruce"
+  ],
+  "minecraft:birch_leaves": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:leaves",
+    "#unmined:birch"
+  ],
+  "minecraft:jungle_leaves": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:leaves",
+    "#unmined:jungle"
+  ],
+  "minecraft:acacia_leaves": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:leaves",
+    "#unmined:acacia"
+  ],
+  "minecraft:dark_oak_leaves": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:leaves",
+    "#unmined:dark_oak"
+  ],
+  "minecraft:cobweb": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:cobweb"
+  ],
+  "minecraft:grass": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:grass"
+  ],
+  "minecraft:fern": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:grass"
+  ],
+  "minecraft:dead_bush": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:grass"
+  ],
+  "minecraft:seagrass": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:grass"
+  ],
+  "minecraft:tall_seagrass": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:grass"
+  ],
+  "minecraft:sea_pickle": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:grass"
+  ],
+  "minecraft:dandelion": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:poppy": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:blue_orchid": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:allium": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:azure_bluet": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:red_tulip": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:orange_tulip": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:white_tulip": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:pink_tulip": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:oxeye_daisy": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:cornflower": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:lily_of_the_valley": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:wither_rose": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:brown_mushroom": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:red_mushroom": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:chorus_plant": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:log",
+    "#unmined:chorus"
+  ],
+  "minecraft:chorus_flower": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower",
+    "#unmined:chorus"
+  ],
+  "minecraft:cactus": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:log",
+    "#unmined:cactus"
+  ],
+  "minecraft:pumpkin": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:fruit",
+    "#unmined:pumpkin"
+  ],
+  "minecraft:brown_mushroom_block": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:mushroom",
+    "#unmined:mushroom.brown"
+  ],
+  "minecraft:red_mushroom_block": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:mushroom",
+    "#unmined:mushroom.red"
+  ],
+  "minecraft:mushroom_stem": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:mushroom"
+  ],
+  "minecraft:melon": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:fruit",
+    "#unmined:melon"
+  ],
+  "minecraft:vine": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:vine"
+  ],
+  "minecraft:lily_pad": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:cocoa": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:fruit",
+    "#unmined:cocoa"
+  ],
+  "minecraft:sunflower": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:lilac": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:rose_bush": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:peony": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:flower"
+  ],
+  "minecraft:tall_grass": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:grass"
+  ],
+  "minecraft:large_fern": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:grass"
+  ],
+  "minecraft:dead_tube_coral_block": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:tube_corals",
+    "#unmined:coral_blocks",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:dead_brain_coral_block": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:brain_corals",
+    "#unmined:coral_blocks",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:dead_bubble_coral_block": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:bubble_corals",
+    "#unmined:coral_blocks",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:dead_fire_coral_block": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:fire_corals",
+    "#unmined:coral_blocks",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:dead_horn_coral_block": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:horn_corals",
+    "#unmined:coral_blocks",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:tube_coral_block": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:tube_corals",
+    "#unmined:coral_blocks"
+  ],
+  "minecraft:brain_coral_block": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:brain_corals",
+    "#unmined:coral_blocks"
+  ],
+  "minecraft:bubble_coral_block": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:bubble_corals",
+    "#unmined:coral_blocks"
+  ],
+  "minecraft:fire_coral_block": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:fire_corals",
+    "#unmined:coral_blocks"
+  ],
+  "minecraft:horn_coral_block": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:horn_corals",
+    "#unmined:coral_blocks"
+  ],
+  "minecraft:tube_coral": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:tube_corals",
+    "#unmined:coral"
+  ],
+  "minecraft:brain_coral": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:brain_corals",
+    "#unmined:coral"
+  ],
+  "minecraft:bubble_coral": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:bubble_corals",
+    "#unmined:coral"
+  ],
+  "minecraft:fire_coral": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:fire_corals",
+    "#unmined:coral"
+  ],
+  "minecraft:horn_coral": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:horn_corals",
+    "#unmined:coral"
+  ],
+  "minecraft:dead_tube_coral": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:tube_corals",
+    "#unmined:coral",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:dead_brain_coral": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:brain_corals",
+    "#unmined:coral",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:dead_bubble_coral": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:bubble_corals",
+    "#unmined:coral",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:dead_fire_coral": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:fire_corals",
+    "#unmined:coral",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:dead_horn_coral": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:horn_corals",
+    "#unmined:coral",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:tube_coral_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:tube_corals",
+    "#unmined:coral_fans"
+  ],
+  "minecraft:tube_coral_wall_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:tube_corals",
+    "#unmined:coral_fans"
+  ],
+  "minecraft:brain_coral_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:brain_corals",
+    "#unmined:coral_fans"
+  ],
+  "minecraft:brain_coral_wall_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:brain_corals",
+    "#unmined:coral_fans"
+  ],
+  "minecraft:bubble_coral_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:bubble_corals",
+    "#unmined:coral_fans"
+  ],
+  "minecraft:bubble_coral_wall_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:bubble_corals",
+    "#unmined:coral_fans"
+  ],
+  "minecraft:fire_coral_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:fire_corals",
+    "#unmined:coral_fans"
+  ],
+  "minecraft:fire_coral_wall_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:fire_corals",
+    "#unmined:coral_fans"
+  ],
+  "minecraft:horn_coral_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:horn_corals",
+    "#unmined:coral_fans"
+  ],
+  "minecraft:horn_coral_wall_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:horn_corals",
+    "#unmined:coral_fans"
+  ],
+  "minecraft:dead_tube_coral_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:tube_corals",
+    "#unmined:coral_fans",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:dead_tube_coral_wall_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:tube_corals",
+    "#unmined:coral_fans",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:dead_brain_coral_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:brain_corals",
+    "#unmined:coral_fans",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:dead_brain_coral_wall_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:brain_corals",
+    "#unmined:coral_fans",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:dead_bubble_coral_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:bubble_corals",
+    "#unmined:coral_fans",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:dead_bubble_coral_wall_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:bubble_corals",
+    "#unmined:coral_fans",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:dead_fire_coral_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:fire_corals",
+    "#unmined:coral_fans",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:dead_fire_coral_wall_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:fire_corals",
+    "#unmined:coral_fans",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:dead_horn_coral_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:horn_corals",
+    "#unmined:coral_fans",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:dead_horn_coral_wall_fan": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:corals",
+    "#unmined:horn_corals",
+    "#unmined:coral_fans",
+    "#unmined:dead_corals"
+  ],
+  "minecraft:sugar_cane": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:log",
+    "#unmined:sugar_cane"
+  ],
+  "minecraft:kelp": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:grass",
+    "#unmined:kelp"
+  ],
+  "minecraft:kelp_plant": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:log",
+    "#unmined:kelp"
+  ],
+  "minecraft:bamboo": [
+    "#unmined:blocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:log",
+    "#unmined:bamboo"
+  ],
+  "minecraft:bamboo_sapling": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:sapling",
+    "#unmined:bamboo"
+  ],
+  "minecraft:pumpkin_stem": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:stem",
+    "#unmined:pumpkin"
+  ],
+  "minecraft:attached_pumpkin_stem": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:stem",
+    "#unmined:pumpkin"
+  ],
+  "minecraft:melon_stem": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:stem",
+    "#unmined:melon"
+  ],
+  "minecraft:attached_melon_stem": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:stem",
+    "#unmined:melon"
+  ],
+  "minecraft:nether_wart": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:grass"
+  ],
+  "minecraft:sweet_berry_bush": [
+    "#unmined:nonblocking",
+    "#unmined:natural",
+    "#unmined:vegetation",
+    "#unmined:fruit"
+  ],
+  "minecraft:water": [
+    "#unmined:fluid",
+    "#unmined:natural",
+    "#unmined:water"
+  ],
+  "minecraft:flowing_water": [
+    "#unmined:fluid",
+    "#unmined:natural",
+    "#unmined:water"
+  ],
+  "minecraft:bubble_column": [
+    "#unmined:fluid",
+    "#unmined:natural",
+    "#unmined:water"
+  ],
+  "minecraft:polished_granite": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:polished_diorite": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:polished_andesite": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:cobblestone": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:oak_planks": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:planks",
+    "#unmined:wood",
+    "#unmined:oak"
+  ],
+  "minecraft:spruce_planks": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:planks",
+    "#unmined:wood",
+    "#unmined:spruce"
+  ],
+  "minecraft:birch_planks": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:planks",
+    "#unmined:wood",
+    "#unmined:birch"
+  ],
+  "minecraft:jungle_planks": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:planks",
+    "#unmined:wood",
+    "#unmined:jungle"
+  ],
+  "minecraft:acacia_planks": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:planks",
+    "#unmined:wood",
+    "#unmined:acacia"
+  ],
+  "minecraft:dark_oak_planks": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:planks",
+    "#unmined:wood",
+    "#unmined:dark_oak"
+  ],
+  "minecraft:stripped_oak_wood": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wood",
+    "#unmined:wood",
+    "#unmined:oak"
+  ],
+  "minecraft:stripped_spruce_wood": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wood",
+    "#unmined:wood",
+    "#unmined:spruce"
+  ],
+  "minecraft:stripped_birch_wood": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wood",
+    "#unmined:wood",
+    "#unmined:birch"
+  ],
+  "minecraft:stripped_jungle_wood": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wood",
+    "#unmined:wood",
+    "#unmined:jungle"
+  ],
+  "minecraft:stripped_acacia_wood": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wood",
+    "#unmined:wood",
+    "#unmined:acacia"
+  ],
+  "minecraft:stripped_dark_oak_wood": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wood",
+    "#unmined:wood",
+    "#unmined:dark_oak"
+  ],
+  "minecraft:oak_wood": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wood",
+    "#unmined:wood",
+    "#unmined:oak"
+  ],
+  "minecraft:spruce_wood": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wood",
+    "#unmined:wood",
+    "#unmined:spruce"
+  ],
+  "minecraft:birch_wood": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wood",
+    "#unmined:wood",
+    "#unmined:birch"
+  ],
+  "minecraft:jungle_wood": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wood",
+    "#unmined:wood",
+    "#unmined:jungle"
+  ],
+  "minecraft:acacia_wood": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wood",
+    "#unmined:wood",
+    "#unmined:acacia"
+  ],
+  "minecraft:dark_oak_wood": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wood",
+    "#unmined:wood",
+    "#unmined:dark_oak"
+  ],
+  "minecraft:sponge": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:sponge"
+  ],
+  "minecraft:wet_sponge": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:sponge"
+  ],
+  "minecraft:glass": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:glass"
+  ],
+  "minecraft:lapis_block": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:dispenser": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:chiseled_sandstone": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone",
+    "#unmined:sandstone"
+  ],
+  "minecraft:cut_sandstone": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone",
+    "#unmined:sandstone"
+  ],
+  "minecraft:note_block": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:powered_rail": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:rail"
+  ],
+  "minecraft:detector_rail": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:rail"
+  ],
+  "minecraft:sticky_piston": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:circuit",
+    "#unmined:piston"
+  ],
+  "minecraft:piston": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:circuit",
+    "#unmined:piston"
+  ],
+  "minecraft:piston_head": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit",
+    "#unmined:piston"
+  ],
+  "minecraft:moving_piston": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit",
+    "#unmined:piston"
+  ],
+  "minecraft:white_wool": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:white",
+    "#unmined:wool"
+  ],
+  "minecraft:orange_wool": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:orange",
+    "#unmined:wool"
+  ],
+  "minecraft:magenta_wool": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:magenta",
+    "#unmined:wool"
+  ],
+  "minecraft:light_blue_wool": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:lightblue",
+    "#unmined:wool"
+  ],
+  "minecraft:yellow_wool": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:yellow",
+    "#unmined:wool"
+  ],
+  "minecraft:lime_wool": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:lime",
+    "#unmined:wool"
+  ],
+  "minecraft:pink_wool": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:pink",
+    "#unmined:wool"
+  ],
+  "minecraft:gray_wool": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:gray",
+    "#unmined:wool"
+  ],
+  "minecraft:light_gray_wool": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:lightgray",
+    "#unmined:wool"
+  ],
+  "minecraft:cyan_wool": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:cyan",
+    "#unmined:wool"
+  ],
+  "minecraft:purple_wool": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:purple",
+    "#unmined:wool"
+  ],
+  "minecraft:blue_wool": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:blue",
+    "#unmined:wool"
+  ],
+  "minecraft:brown_wool": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:brown",
+    "#unmined:wool"
+  ],
+  "minecraft:green_wool": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:green",
+    "#unmined:wool"
+  ],
+  "minecraft:red_wool": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:red",
+    "#unmined:wool"
+  ],
+  "minecraft:black_wool": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:black",
+    "#unmined:wool"
+  ],
+  "minecraft:gold_block": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:gold"
+  ],
+  "minecraft:iron_block": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:iron"
+  ],
+  "minecraft:oak_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:wood",
+    "#unmined:oak"
+  ],
+  "minecraft:spruce_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:wood",
+    "#unmined:spruce"
+  ],
+  "minecraft:birch_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:wood",
+    "#unmined:birch"
+  ],
+  "minecraft:jungle_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:wood",
+    "#unmined:jungle"
+  ],
+  "minecraft:acacia_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:wood",
+    "#unmined:acacia"
+  ],
+  "minecraft:dark_oak_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:wood",
+    "#unmined:dark_oak"
+  ],
+  "minecraft:stone_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:smooth_stone_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:sandstone_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:petrified_oak_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:wood",
+    "#unmined:oak"
+  ],
+  "minecraft:cobblestone_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:brick_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:stone_brick_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:nether_brick_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:quartz_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:red_sandstone_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:purpur_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:prismarine_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:prismarine_brick_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:dark_prismarine_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:smooth_quartz": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:smooth_red_sandstone": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:smooth_sandstone": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:smooth_stone": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:bricks": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:tnt": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:bookshelf": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wood"
+  ],
+  "minecraft:mossy_cobblestone": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:torch": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:torch"
+  ],
+  "minecraft:wall_torch": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:torch"
+  ],
+  "minecraft:end_rod": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:purpur_block": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:purpur_pillar": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:purpur_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:oak_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:wood",
+    "#unmined:oak"
+  ],
+  "minecraft:spruce_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:wood",
+    "#unmined:spruce"
+  ],
+  "minecraft:birch_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:wood",
+    "#unmined:birch"
+  ],
+  "minecraft:jungle_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:wood",
+    "#unmined:jungle"
+  ],
+  "minecraft:acacia_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:wood",
+    "#unmined:acacia"
+  ],
+  "minecraft:dark_oak_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:wood",
+    "#unmined:dark_oak"
+  ],
+  "minecraft:chest": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:diamond_block": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:crafting_table": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:table"
+  ],
+  "minecraft:farmland": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:crop"
+  ],
+  "minecraft:furnace": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:ladder": [
+    "#unmined:nonblocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:rail": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:rail"
+  ],
+  "minecraft:cobblestone_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs"
+  ],
+  "minecraft:lever": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:stone_pressure_plate": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:oak_pressure_plate": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:spruce_pressure_plate": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:birch_pressure_plate": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:jungle_pressure_plate": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:acacia_pressure_plate": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:dark_oak_pressure_plate": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:redstone_torch": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:redstone_wall_torch": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:stone_button": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:jukebox": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:oak_fence": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:fence",
+    "#unmined:wood",
+    "#unmined:oak"
+  ],
+  "minecraft:spruce_fence": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:fence",
+    "#unmined:wood",
+    "#unmined:spruce"
+  ],
+  "minecraft:birch_fence": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:fence",
+    "#unmined:wood",
+    "#unmined:birch"
+  ],
+  "minecraft:jungle_fence": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:fence",
+    "#unmined:wood",
+    "#unmined:jungle"
+  ],
+  "minecraft:acacia_fence": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:fence",
+    "#unmined:wood",
+    "#unmined:acacia"
+  ],
+  "minecraft:dark_oak_fence": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:fence",
+    "#unmined:wood",
+    "#unmined:dark_oak"
+  ],
+  "minecraft:carved_pumpkin": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:glowstone": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:jack_o_lantern": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:oak_trapdoor": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:trapdoor",
+    "#unmined:oak"
+  ],
+  "minecraft:spruce_trapdoor": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:trapdoor",
+    "#unmined:spruce"
+  ],
+  "minecraft:birch_trapdoor": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:trapdoor",
+    "#unmined:birch"
+  ],
+  "minecraft:jungle_trapdoor": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:trapdoor",
+    "#unmined:jungle"
+  ],
+  "minecraft:acacia_trapdoor": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:trapdoor",
+    "#unmined:acacia"
+  ],
+  "minecraft:dark_oak_trapdoor": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:trapdoor",
+    "#unmined:dark_oak"
+  ],
+  "minecraft:infested_cobblestone": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:infested_stone_bricks": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:infested_mossy_stone_bricks": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:infested_cracked_stone_bricks": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:infested_chiseled_stone_bricks": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:stone_bricks": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:mossy_stone_bricks": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:cracked_stone_bricks": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:chiseled_stone_bricks": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:iron_bars": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:iron"
+  ],
+  "minecraft:glass_pane": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:glass"
+  ],
+  "minecraft:oak_fence_gate": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:gate",
+    "#unmined:oak"
+  ],
+  "minecraft:spruce_fence_gate": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:gate",
+    "#unmined:spruce"
+  ],
+  "minecraft:birch_fence_gate": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:gate",
+    "#unmined:birch"
+  ],
+  "minecraft:jungle_fence_gate": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:gate",
+    "#unmined:jungle"
+  ],
+  "minecraft:acacia_fence_gate": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:gate",
+    "#unmined:acacia"
+  ],
+  "minecraft:dark_oak_fence_gate": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:gate",
+    "#unmined:dark_oak"
+  ],
+  "minecraft:brick_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:stone_brick_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:nether_bricks": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:nether_brick_fence": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:fence",
+    "#unmined:stone"
+  ],
+  "minecraft:nether_brick_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:enchanting_table": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:table"
+  ],
+  "minecraft:end_portal_frame": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:end_stone_bricks": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:redstone_lamp": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:sandstone_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:ender_chest": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:tripwire_hook": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:tripwire": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:emerald_block": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:beacon": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:cobblestone_wall": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wall",
+    "#unmined:stone"
+  ],
+  "minecraft:mossy_cobblestone_wall": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wall",
+    "#unmined:stone"
+  ],
+  "minecraft:oak_button": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:button",
+    "#unmined:oak"
+  ],
+  "minecraft:spruce_button": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:button",
+    "#unmined:spruce"
+  ],
+  "minecraft:birch_button": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:button",
+    "#unmined:birch"
+  ],
+  "minecraft:jungle_button": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:button",
+    "#unmined:jungle"
+  ],
+  "minecraft:acacia_button": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:button",
+    "#unmined:acacia"
+  ],
+  "minecraft:dark_oak_button": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:button",
+    "#unmined:dark_oak"
+  ],
+  "minecraft:anvil": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:chipped_anvil": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:damaged_anvil": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:trapped_chest": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:light_weighted_pressure_plate": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:heavy_weighted_pressure_plate": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:daylight_detector": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:redstone_block": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:hopper": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:chiseled_quartz_block": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:quartz_block": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:quartz_pillar": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:quartz_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:activator_rail": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:rail"
+  ],
+  "minecraft:dropper": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:iron_trapdoor": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:trapdoor"
+  ],
+  "minecraft:hay_block": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:hay"
+  ],
+  "minecraft:white_carpet": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:white",
+    "#unmined:carpet",
+    "#unmined:wool"
+  ],
+  "minecraft:orange_carpet": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:orange",
+    "#unmined:carpet",
+    "#unmined:wool"
+  ],
+  "minecraft:magenta_carpet": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:magenta",
+    "#unmined:carpet",
+    "#unmined:wool"
+  ],
+  "minecraft:light_blue_carpet": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:light_blue",
+    "#unmined:carpet",
+    "#unmined:wool"
+  ],
+  "minecraft:yellow_carpet": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:yellow",
+    "#unmined:carpet",
+    "#unmined:wool"
+  ],
+  "minecraft:lime_carpet": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:lime",
+    "#unmined:carpet",
+    "#unmined:wool"
+  ],
+  "minecraft:pink_carpet": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:pink",
+    "#unmined:carpet",
+    "#unmined:wool"
+  ],
+  "minecraft:gray_carpet": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:gray",
+    "#unmined:carpet",
+    "#unmined:wool"
+  ],
+  "minecraft:light_gray_carpet": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:light_gray",
+    "#unmined:carpet",
+    "#unmined:wool"
+  ],
+  "minecraft:cyan_carpet": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:cyan",
+    "#unmined:carpet",
+    "#unmined:wool"
+  ],
+  "minecraft:purple_carpet": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:purple",
+    "#unmined:carpet",
+    "#unmined:wool"
+  ],
+  "minecraft:blue_carpet": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:blue",
+    "#unmined:carpet",
+    "#unmined:wool"
+  ],
+  "minecraft:brown_carpet": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:brown",
+    "#unmined:carpet",
+    "#unmined:wool"
+  ],
+  "minecraft:green_carpet": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:green",
+    "#unmined:carpet",
+    "#unmined:wool"
+  ],
+  "minecraft:red_carpet": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:red",
+    "#unmined:carpet",
+    "#unmined:wool"
+  ],
+  "minecraft:black_carpet": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:black",
+    "#unmined:carpet",
+    "#unmined:wool"
+  ],
+  "minecraft:coal_block": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:coal"
+  ],
+  "minecraft:slime_block": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:grass_path": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:white_stained_glass": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:white",
+    "#unmined:glass"
+  ],
+  "minecraft:orange_stained_glass": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:orange",
+    "#unmined:glass"
+  ],
+  "minecraft:magenta_stained_glass": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:magenta",
+    "#unmined:glass"
+  ],
+  "minecraft:light_blue_stained_glass": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:light_blue",
+    "#unmined:glass"
+  ],
+  "minecraft:yellow_stained_glass": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:yellow",
+    "#unmined:glass"
+  ],
+  "minecraft:lime_stained_glass": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:lime",
+    "#unmined:glass"
+  ],
+  "minecraft:pink_stained_glass": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:pink",
+    "#unmined:glass"
+  ],
+  "minecraft:gray_stained_glass": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:gray",
+    "#unmined:glass"
+  ],
+  "minecraft:light_gray_stained_glass": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:light_gray",
+    "#unmined:glass"
+  ],
+  "minecraft:cyan_stained_glass": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:cyan",
+    "#unmined:glass"
+  ],
+  "minecraft:purple_stained_glass": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:purple",
+    "#unmined:glass"
+  ],
+  "minecraft:blue_stained_glass": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:blue",
+    "#unmined:glass"
+  ],
+  "minecraft:brown_stained_glass": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:brown",
+    "#unmined:glass"
+  ],
+  "minecraft:green_stained_glass": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:green",
+    "#unmined:glass"
+  ],
+  "minecraft:red_stained_glass": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:red",
+    "#unmined:glass"
+  ],
+  "minecraft:black_stained_glass": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:black",
+    "#unmined:glass"
+  ],
+  "minecraft:white_stained_glass_pane": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:white",
+    "#unmined:glass"
+  ],
+  "minecraft:orange_stained_glass_pane": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:orange",
+    "#unmined:glass"
+  ],
+  "minecraft:magenta_stained_glass_pane": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:magenta",
+    "#unmined:glass"
+  ],
+  "minecraft:light_blue_stained_glass_pane": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:light_blue",
+    "#unmined:glass"
+  ],
+  "minecraft:yellow_stained_glass_pane": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:yellow",
+    "#unmined:glass"
+  ],
+  "minecraft:lime_stained_glass_pane": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:lime",
+    "#unmined:glass"
+  ],
+  "minecraft:pink_stained_glass_pane": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:pink",
+    "#unmined:glass"
+  ],
+  "minecraft:gray_stained_glass_pane": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:gray",
+    "#unmined:glass"
+  ],
+  "minecraft:light_gray_stained_glass_pane": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:light_gray",
+    "#unmined:glass"
+  ],
+  "minecraft:cyan_stained_glass_pane": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:cyan",
+    "#unmined:glass"
+  ],
+  "minecraft:purple_stained_glass_pane": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:purple",
+    "#unmined:glass"
+  ],
+  "minecraft:blue_stained_glass_pane": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:blue",
+    "#unmined:glass"
+  ],
+  "minecraft:brown_stained_glass_pane": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:brown",
+    "#unmined:glass"
+  ],
+  "minecraft:green_stained_glass_pane": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:green",
+    "#unmined:glass"
+  ],
+  "minecraft:red_stained_glass_pane": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:red",
+    "#unmined:glass"
+  ],
+  "minecraft:black_stained_glass_pane": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:black",
+    "#unmined:glass"
+  ],
+  "minecraft:prismarine": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:prismarine_bricks": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:dark_prismarine": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:prismarine_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:prismarine_brick_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:dark_prismarine_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:sea_lantern": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:chiseled_red_sandstone": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:cut_red_sandstone": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stone"
+  ],
+  "minecraft:red_sandstone_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:nether_wart_block": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:red_nether_bricks": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:bone_block": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:observer": [
+    "#unmined:nonblocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:shulker_box": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:shulkerbox"
+  ],
+  "minecraft:white_shulker_box": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:white",
+    "#unmined:shulkerbox"
+  ],
+  "minecraft:orange_shulker_box": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:orange",
+    "#unmined:shulkerbox"
+  ],
+  "minecraft:magenta_shulker_box": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:magenta",
+    "#unmined:shulkerbox"
+  ],
+  "minecraft:light_blue_shulker_box": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:light_blue",
+    "#unmined:shulkerbox"
+  ],
+  "minecraft:yellow_shulker_box": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:yellow",
+    "#unmined:shulkerbox"
+  ],
+  "minecraft:lime_shulker_box": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:lime",
+    "#unmined:shulkerbox"
+  ],
+  "minecraft:pink_shulker_box": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:pink",
+    "#unmined:shulkerbox"
+  ],
+  "minecraft:gray_shulker_box": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:gray",
+    "#unmined:shulkerbox"
+  ],
+  "minecraft:light_gray_shulker_box": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:light_gray",
+    "#unmined:shulkerbox"
+  ],
+  "minecraft:cyan_shulker_box": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:cyan",
+    "#unmined:shulkerbox"
+  ],
+  "minecraft:purple_shulker_box": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:purple",
+    "#unmined:shulkerbox"
+  ],
+  "minecraft:blue_shulker_box": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:blue",
+    "#unmined:shulkerbox"
+  ],
+  "minecraft:brown_shulker_box": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:brown",
+    "#unmined:shulkerbox"
+  ],
+  "minecraft:green_shulker_box": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:green",
+    "#unmined:shulkerbox"
+  ],
+  "minecraft:red_shulker_box": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:red",
+    "#unmined:shulkerbox"
+  ],
+  "minecraft:black_shulker_box": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:black",
+    "#unmined:shulkerbox"
+  ],
+  "minecraft:white_glazed_terracotta": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:white",
+    "#unmined:glazed_terracotta",
+    "#unmined:stone"
+  ],
+  "minecraft:orange_glazed_terracotta": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:orange",
+    "#unmined:glazed_terracotta",
+    "#unmined:stone"
+  ],
+  "minecraft:magenta_glazed_terracotta": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:magenta",
+    "#unmined:glazed_terracotta",
+    "#unmined:stone"
+  ],
+  "minecraft:light_blue_glazed_terracotta": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:light_blue",
+    "#unmined:glazed_terracotta",
+    "#unmined:stone"
+  ],
+  "minecraft:yellow_glazed_terracotta": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:yellow",
+    "#unmined:glazed_terracotta",
+    "#unmined:stone"
+  ],
+  "minecraft:lime_glazed_terracotta": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:lime",
+    "#unmined:glazed_terracotta",
+    "#unmined:stone"
+  ],
+  "minecraft:pink_glazed_terracotta": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:pink",
+    "#unmined:glazed_terracotta",
+    "#unmined:stone"
+  ],
+  "minecraft:gray_glazed_terracotta": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:gray",
+    "#unmined:glazed_terracotta",
+    "#unmined:stone"
+  ],
+  "minecraft:light_gray_glazed_terracotta": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:light_gray",
+    "#unmined:glazed_terracotta",
+    "#unmined:stone"
+  ],
+  "minecraft:cyan_glazed_terracotta": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:cyan",
+    "#unmined:glazed_terracotta",
+    "#unmined:stone"
+  ],
+  "minecraft:purple_glazed_terracotta": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:purple",
+    "#unmined:glazed_terracotta",
+    "#unmined:stone"
+  ],
+  "minecraft:blue_glazed_terracotta": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:blue",
+    "#unmined:glazed_terracotta",
+    "#unmined:stone"
+  ],
+  "minecraft:brown_glazed_terracotta": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:brown",
+    "#unmined:glazed_terracotta",
+    "#unmined:stone"
+  ],
+  "minecraft:green_glazed_terracotta": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:green",
+    "#unmined:glazed_terracotta",
+    "#unmined:stone"
+  ],
+  "minecraft:red_glazed_terracotta": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:red",
+    "#unmined:glazed_terracotta",
+    "#unmined:stone"
+  ],
+  "minecraft:black_glazed_terracotta": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:black",
+    "#unmined:glazed_terracotta",
+    "#unmined:stone"
+  ],
+  "minecraft:white_concrete": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:white",
+    "#unmined:concrete",
+    "#unmined:stone"
+  ],
+  "minecraft:orange_concrete": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:orange",
+    "#unmined:concrete",
+    "#unmined:stone"
+  ],
+  "minecraft:magenta_concrete": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:magenta",
+    "#unmined:concrete",
+    "#unmined:stone"
+  ],
+  "minecraft:light_blue_concrete": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:light_blue",
+    "#unmined:concrete",
+    "#unmined:stone"
+  ],
+  "minecraft:yellow_concrete": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:yellow",
+    "#unmined:concrete",
+    "#unmined:stone"
+  ],
+  "minecraft:lime_concrete": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:lime",
+    "#unmined:concrete",
+    "#unmined:stone"
+  ],
+  "minecraft:pink_concrete": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:pink",
+    "#unmined:concrete",
+    "#unmined:stone"
+  ],
+  "minecraft:gray_concrete": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:gray",
+    "#unmined:concrete",
+    "#unmined:stone"
+  ],
+  "minecraft:light_gray_concrete": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:light_gray",
+    "#unmined:concrete",
+    "#unmined:stone"
+  ],
+  "minecraft:cyan_concrete": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:cyan",
+    "#unmined:concrete",
+    "#unmined:stone"
+  ],
+  "minecraft:purple_concrete": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:purple",
+    "#unmined:concrete",
+    "#unmined:stone"
+  ],
+  "minecraft:blue_concrete": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:blue",
+    "#unmined:concrete",
+    "#unmined:stone"
+  ],
+  "minecraft:brown_concrete": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:brown",
+    "#unmined:concrete",
+    "#unmined:stone"
+  ],
+  "minecraft:green_concrete": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:green",
+    "#unmined:concrete",
+    "#unmined:stone"
+  ],
+  "minecraft:red_concrete": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:red",
+    "#unmined:concrete",
+    "#unmined:stone"
+  ],
+  "minecraft:black_concrete": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:black",
+    "#unmined:concrete",
+    "#unmined:stone"
+  ],
+  "minecraft:white_concrete_powder": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:white",
+    "#unmined:concrete_powder",
+    "#unmined:stone"
+  ],
+  "minecraft:orange_concrete_powder": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:orange",
+    "#unmined:concrete_powder",
+    "#unmined:stone"
+  ],
+  "minecraft:magenta_concrete_powder": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:magenta",
+    "#unmined:concrete_powder",
+    "#unmined:stone"
+  ],
+  "minecraft:light_blue_concrete_powder": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:light_blue",
+    "#unmined:concrete_powder",
+    "#unmined:stone"
+  ],
+  "minecraft:yellow_concrete_powder": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:yellow",
+    "#unmined:concrete_powder",
+    "#unmined:stone"
+  ],
+  "minecraft:lime_concrete_powder": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:lime",
+    "#unmined:concrete_powder",
+    "#unmined:stone"
+  ],
+  "minecraft:pink_concrete_powder": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:pink",
+    "#unmined:concrete_powder",
+    "#unmined:stone"
+  ],
+  "minecraft:gray_concrete_powder": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:gray",
+    "#unmined:concrete_powder",
+    "#unmined:stone"
+  ],
+  "minecraft:light_gray_concrete_powder": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:light_gray",
+    "#unmined:concrete_powder",
+    "#unmined:stone"
+  ],
+  "minecraft:cyan_concrete_powder": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:cyan",
+    "#unmined:concrete_powder",
+    "#unmined:stone"
+  ],
+  "minecraft:purple_concrete_powder": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:purple",
+    "#unmined:concrete_powder",
+    "#unmined:stone"
+  ],
+  "minecraft:blue_concrete_powder": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:blue",
+    "#unmined:concrete_powder",
+    "#unmined:stone"
+  ],
+  "minecraft:brown_concrete_powder": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:brown",
+    "#unmined:concrete_powder",
+    "#unmined:stone"
+  ],
+  "minecraft:green_concrete_powder": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:green",
+    "#unmined:concrete_powder",
+    "#unmined:stone"
+  ],
+  "minecraft:red_concrete_powder": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:red",
+    "#unmined:concrete_powder",
+    "#unmined:stone"
+  ],
+  "minecraft:black_concrete_powder": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:black",
+    "#unmined:concrete_powder",
+    "#unmined:stone"
+  ],
+  "minecraft:conduit": [
+    "#unmined:nonblocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:polished_granite_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:smooth_red_sandstone_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:mossy_stone_brick_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:polished_diorite_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:mossy_cobblestone_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:end_stone_brick_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:stone_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:smooth_sandstone_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:smooth_quartz_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:granite_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:andesite_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:red_nether_brick_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:polished_andesite_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:diorite_stairs": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:stairs",
+    "#unmined:stone"
+  ],
+  "minecraft:polished_granite_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:smooth_red_sandstone_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:mossy_stone_brick_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:polished_diorite_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:mossy_cobblestone_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:end_stone_brick_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:smooth_sandstone_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:smooth_quartz_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:granite_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:andesite_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:red_nether_brick_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:polished_andesite_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:diorite_slab": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:slab",
+    "#unmined:stone"
+  ],
+  "minecraft:brick_wall": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wall",
+    "#unmined:stone"
+  ],
+  "minecraft:prismarine_wall": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wall",
+    "#unmined:stone"
+  ],
+  "minecraft:red_sandstone_wall": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wall",
+    "#unmined:stone"
+  ],
+  "minecraft:mossy_stone_brick_wall": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wall",
+    "#unmined:stone"
+  ],
+  "minecraft:granite_wall": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wall",
+    "#unmined:stone"
+  ],
+  "minecraft:stone_brick_wall": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wall",
+    "#unmined:stone"
+  ],
+  "minecraft:nether_brick_wall": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wall",
+    "#unmined:stone"
+  ],
+  "minecraft:andesite_wall": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wall",
+    "#unmined:stone"
+  ],
+  "minecraft:red_nether_brick_wall": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wall",
+    "#unmined:stone"
+  ],
+  "minecraft:sandstone_wall": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wall",
+    "#unmined:stone"
+  ],
+  "minecraft:end_stone_brick_wall": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wall",
+    "#unmined:stone"
+  ],
+  "minecraft:diorite_wall": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:wall",
+    "#unmined:stone"
+  ],
+  "minecraft:scaffolding": [
+    "#unmined:nonblocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:oak_door": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:door",
+    "#unmined:wood",
+    "#unmined:oak"
+  ],
+  "minecraft:iron_door": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:door",
+    "#unmined:iron"
+  ],
+  "minecraft:spruce_door": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:door",
+    "#unmined:wood",
+    "#unmined:spruce"
+  ],
+  "minecraft:birch_door": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:door",
+    "#unmined:wood",
+    "#unmined:birch"
+  ],
+  "minecraft:jungle_door": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:door",
+    "#unmined:wood",
+    "#unmined:jungle"
+  ],
+  "minecraft:acacia_door": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:door",
+    "#unmined:wood",
+    "#unmined:acacia"
+  ],
+  "minecraft:dark_oak_door": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:door",
+    "#unmined:wood",
+    "#unmined:dark_oak"
+  ],
+  "minecraft:repeater": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:comparator": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:composter": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:wheat": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:crop"
+  ],
+  "minecraft:sign": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:sign",
+    "#unmined:wood",
+    "#unmined:oak"
+  ],
+  "minecraft:oak_sign": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:sign",
+    "#unmined:wood",
+    "#unmined:oak"
+  ],
+  "minecraft:wall_sign": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:sign",
+    "#unmined:wood",
+    "#unmined:oak"
+  ],
+  "minecraft:oak_wall_sign": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:sign",
+    "#unmined:wood",
+    "#unmined:oak"
+  ],
+  "minecraft:spruce_sign": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:sign",
+    "#unmined:wood",
+    "#unmined:spruce"
+  ],
+  "minecraft:spruce_wall_sign": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:sign",
+    "#unmined:wood",
+    "#unmined:spruce"
+  ],
+  "minecraft:birch_sign": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:sign",
+    "#unmined:wood",
+    "#unmined:birch"
+  ],
+  "minecraft:birch_wall_sign": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:sign",
+    "#unmined:wood",
+    "#unmined:birch"
+  ],
+  "minecraft:jungle_sign": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:sign",
+    "#unmined:wood",
+    "#unmined:jungle"
+  ],
+  "minecraft:jungle_wall_sign": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:sign",
+    "#unmined:wood",
+    "#unmined:jungle"
+  ],
+  "minecraft:acacia_sign": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:sign",
+    "#unmined:wood",
+    "#unmined:acacia"
+  ],
+  "minecraft:acacia_wall_sign": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:sign",
+    "#unmined:wood",
+    "#unmined:acacia"
+  ],
+  "minecraft:dark_oak_sign": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:sign",
+    "#unmined:wood",
+    "#unmined:dark_oak"
+  ],
+  "minecraft:dark_oak_wall_sign": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:sign",
+    "#unmined:wood",
+    "#unmined:dark_oak"
+  ],
+  "minecraft:redstone_wire": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:dried_kelp_block": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:cake": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:white_bed": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:white",
+    "#unmined:bed"
+  ],
+  "minecraft:orange_bed": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:orange",
+    "#unmined:bed"
+  ],
+  "minecraft:magenta_bed": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:magenta",
+    "#unmined:bed"
+  ],
+  "minecraft:light_blue_bed": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:light_blue",
+    "#unmined:bed"
+  ],
+  "minecraft:yellow_bed": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:yellow",
+    "#unmined:bed"
+  ],
+  "minecraft:lime_bed": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:lime",
+    "#unmined:bed"
+  ],
+  "minecraft:pink_bed": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:pink",
+    "#unmined:bed"
+  ],
+  "minecraft:gray_bed": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:gray",
+    "#unmined:bed"
+  ],
+  "minecraft:light_gray_bed": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:light_gray",
+    "#unmined:bed"
+  ],
+  "minecraft:cyan_bed": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:cyan",
+    "#unmined:bed"
+  ],
+  "minecraft:purple_bed": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:purple",
+    "#unmined:bed"
+  ],
+  "minecraft:blue_bed": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:blue",
+    "#unmined:bed"
+  ],
+  "minecraft:brown_bed": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:brown",
+    "#unmined:bed"
+  ],
+  "minecraft:green_bed": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:green",
+    "#unmined:bed"
+  ],
+  "minecraft:red_bed": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:red",
+    "#unmined:bed"
+  ],
+  "minecraft:black_bed": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:black",
+    "#unmined:bed"
+  ],
+  "minecraft:brewing_stand": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:cauldron": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:flower_pot": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_poppy": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_dandelion": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_oak_sapling": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_spruce_sapling": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_birch_sapling": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_jungle_sapling": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_red_mushroom": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_brown_mushroom": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_cactus": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_dead_bush": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_fern": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_acacia_sapling": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_dark_oak_sapling": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_blue_orchid": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_allium": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_azure_bluet": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_red_tulip": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_orange_tulip": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_white_tulip": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_pink_tulip": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_oxeye_daisy": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_bamboo": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_cornflower": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_lily_of_the_valley": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:potted_wither_rose": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:flowerpot"
+  ],
+  "minecraft:carrots": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:crop"
+  ],
+  "minecraft:potatoes": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:crop"
+  ],
+  "minecraft:skeleton_skull": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:skull"
+  ],
+  "minecraft:skeleton_wall_skull": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:skull"
+  ],
+  "minecraft:wither_skeleton_skull": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:skull"
+  ],
+  "minecraft:wither_skeleton_wall_skull": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:skull"
+  ],
+  "minecraft:zombie_head": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:head"
+  ],
+  "minecraft:zombie_wall_head": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:head"
+  ],
+  "minecraft:player_head": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:head"
+  ],
+  "minecraft:player_wall_head": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:head"
+  ],
+  "minecraft:creeper_head": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:head"
+  ],
+  "minecraft:creeper_wall_head": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:head"
+  ],
+  "minecraft:dragon_head": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:head"
+  ],
+  "minecraft:dragon_wall_head": [
+    "#unmined:blocking",
+    "#unmined:artifical",
+    "#unmined:head"
+  ],
+  "minecraft:white_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:white",
+    "#unmined:banner"
+  ],
+  "minecraft:orange_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:orange",
+    "#unmined:banner"
+  ],
+  "minecraft:magenta_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:magenta",
+    "#unmined:banner"
+  ],
+  "minecraft:light_blue_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:light_blue",
+    "#unmined:banner"
+  ],
+  "minecraft:yellow_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:yellow",
+    "#unmined:banner"
+  ],
+  "minecraft:lime_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:lime",
+    "#unmined:banner"
+  ],
+  "minecraft:pink_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:pink",
+    "#unmined:banner"
+  ],
+  "minecraft:gray_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:gray",
+    "#unmined:banner"
+  ],
+  "minecraft:light_gray_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:light_gray",
+    "#unmined:banner"
+  ],
+  "minecraft:cyan_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:cyan",
+    "#unmined:banner"
+  ],
+  "minecraft:purple_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:purple",
+    "#unmined:banner"
+  ],
+  "minecraft:blue_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:blue",
+    "#unmined:banner"
+  ],
+  "minecraft:brown_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:brown",
+    "#unmined:banner"
+  ],
+  "minecraft:green_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:green",
+    "#unmined:banner"
+  ],
+  "minecraft:red_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:red",
+    "#unmined:banner"
+  ],
+  "minecraft:black_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:black",
+    "#unmined:banner"
+  ],
+  "minecraft:white_wall_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:white",
+    "#unmined:banner"
+  ],
+  "minecraft:orange_wall_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:orange",
+    "#unmined:banner"
+  ],
+  "minecraft:magenta_wall_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:magenta",
+    "#unmined:banner"
+  ],
+  "minecraft:light_blue_wall_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:light_blue",
+    "#unmined:banner"
+  ],
+  "minecraft:yellow_wall_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:yellow",
+    "#unmined:banner"
+  ],
+  "minecraft:lime_wall_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:lime",
+    "#unmined:banner"
+  ],
+  "minecraft:pink_wall_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:pink",
+    "#unmined:banner"
+  ],
+  "minecraft:gray_wall_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:gray",
+    "#unmined:banner"
+  ],
+  "minecraft:light_gray_wall_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:light_gray",
+    "#unmined:banner"
+  ],
+  "minecraft:cyan_wall_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:cyan",
+    "#unmined:banner"
+  ],
+  "minecraft:purple_wall_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:purple",
+    "#unmined:banner"
+  ],
+  "minecraft:blue_wall_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:blue",
+    "#unmined:banner"
+  ],
+  "minecraft:brown_wall_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:brown",
+    "#unmined:banner"
+  ],
+  "minecraft:green_wall_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:green",
+    "#unmined:banner"
+  ],
+  "minecraft:red_wall_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:red",
+    "#unmined:banner"
+  ],
+  "minecraft:black_wall_banner": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:black",
+    "#unmined:banner"
+  ],
+  "minecraft:beetroots": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:crop"
+  ],
+  "minecraft:loom": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:barrel": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:smoker": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:blast_furnace": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:cartography_table": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:fleching_table": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:grindstone": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:lectern": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:smithing_table": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:stonecutter": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:bell": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:lantern": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:spawner": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:nether_portal": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:portal"
+  ],
+  "minecraft:end_portal": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:portal"
+  ],
+  "minecraft:end_gateway": [
+    "#unmined:nonblocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:command_block": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:chain_command_block": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:repeating_command_block": [
+    "#unmined:nonblocking",
+    "#unmined:artifical",
+    "#unmined:circuit"
+  ],
+  "minecraft:structure_block": [
+    "#unmined:nonblocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:structure_void": [
+    "#unmined:nonblocking",
+    "#unmined:artifical"
+  ],
+  "minecraft:jigsaw_block": [
+    "#unmined:blocking",
+    "#unmined:artifical"
+  ]
+}

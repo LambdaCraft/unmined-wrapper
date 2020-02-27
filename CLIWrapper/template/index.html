@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>uNmINeD map browser</title>
+
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"></script>
+
+    <!-- Leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+          integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+          crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+            integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+            crossorigin=""></script>
+
+    <!-- Leaflet tools -->
+    <script type="text/javascript" src="unmined.lib/L.TileLayer.NoGap.js"></script>
+    <script type="text/javascript" src="unmined.lib/leaflet.functionaltilelayer.js"></script>
+
+    <!-- uNmINeD -->
+    <script type="text/javascript" src="unmined.leaflet.js"></script>
+    <script type="text/javascript" src="unmined.lib/leaflet-svg-shape-markers.min.js"></script>
+
+    <script type="text/javascript" src="lambda.js"></script>
+    <script type="text/javascript" src="loader.js"></script>
+
+    <style type="text/css">
+        html,
+        body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        #map {
+            height: 100%;
+        }
+
+        .leaflet-container {
+            background-color: white;
+        }
+    </style>
+
+    <script type="text/javascript">
+        var mapsPlaceholder = [];
+        var markersLayer = new L.LayerGroup();
+
+        function Loaded(server, dimension) {
+            if (this.dimension === dimension && this.server === server) {
+                return;
+            }
+
+            this.dimension = dimension;
+            this.server = server;
+            getScripts(server, dimension, function (data, textStatus) {
+                document.title = UnminedMapProperties.worldName + " - uNmINeD map browser";
+
+                let unmined = new Unmined();
+                unmined.map(server, dimension, 'map', UnminedMapProperties, UnminedMapRegions, markersLayer);
+            });
+        }
+
+        L.Map.addInitHook(function () {
+            mapsPlaceholder.push(this);
+        });
+
+
+        $(document).ready(function () {
+            Loaded('tech', 'overworld');
+        });
+
+        function ChangeDimension(dimension) {
+            Loaded(this.server, dimension);
+        }
+
+    </script>
+
+</head>
+
+<body>
+
+<div id="map" style="float: left;width: 90%"></div>
+<div style="float: right;width: 10%">
+<!--    <div id="server">-->
+<!--        <select onchange="Loaded(this.value, 'overworld')">-->
+<!--            <option value="tech">Tech</option>-->
+<!--            <option value="craft">Craft</option>-->
+<!--        </select>-->
+<!--    </div>-->
+    <div id="dimensions">
+        <button onclick="ChangeDimension('overworld')">Overworld</button>
+        <button onclick="ChangeDimension('the_nether')">The Nether</button>
+        <button onclick="ChangeDimension('the_end')">The End</button>
+    </div>
+    <div id="players">
+        Players:
+        <ul id="playersOnline"></ul>
+    </div>
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,13 @@
+bin/
+obj/
+/packages/
+test*
+
+.DS_Store
+
+*.dll
+*.pdb
+*.DotSettings*
+.idea/
+
+nginx.conf
